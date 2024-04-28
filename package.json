@@ -1,0 +1,22 @@
+{
+  "name": "example-yandex-captcha",
+  "version": "0.0.1",
+  "description": "Example how to solving Yandex Smart Captcha using Puppeteer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Jandex Smart Captcha",
+    "2captcha service",
+    "demo",
+    "Puppeteer",
+    "exapmle",
+    "captcha solving"
+  ],
+  "dependencies": {
+    "2captcha-ts": "^2.3.3",
+    "puppeteer": "^19.11.1"
+  }
+}
